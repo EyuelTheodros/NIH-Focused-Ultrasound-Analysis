@@ -30,7 +30,7 @@ Focused ultrasound is a non-invasive technology that uses sound waves to treat c
 - `categorize.py` — Python script that auto-categorizes grants into 9 research areas
 - `analysis.py` — Python script that analyzes top-funded institutions and generates charts
 - `top_institutions.png` — Bar chart of top 10 institutions by funding
-- `FUS_Funding_Analysis_v2.pdf` — Full summary report with findings
+- `FUS_Funding_Analysis.pdf` — Full summary report with findings
 
 ## Data Source
 
